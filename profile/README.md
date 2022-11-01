@@ -2,8 +2,8 @@
 
 Modular library for the kinetic and gyrokinetic simulation of tokamak plasmas by the semi-lagrangian or particle-in-cell methods
 
-In the context of the Inria Project Lab FRATRES and a longstanding collaboration between the CEA-Cadarache (French Atomic Energy Commision), 
-the MINGUS and TONUS INRIA Project Teams based respectively at the University of Rennes and Strasbourg and the Max-Planck-Institut für Plasmaphysik (IPP) 
+In the context of a longstanding collaboration between the CEA-Cadarache (French Atomic Energy Commision), 
+the MINGUS and TONUS INRIA Project Teams based respectively in Rennes and Strasbourg and the Max-Planck-Institut für Plasmaphysik (IPP) 
 in Garching, we started developing the Selalib library in 2010.
 
 The SeLaLib software library is a modular library for kinetic and gyrokinetic simulations of plasmas 
